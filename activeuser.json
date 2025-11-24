@@ -10,5 +10,11 @@
     "key": "Scoopy",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e33a5569ef50e98b",
+    "key": "021",
+    "expirydate": "25-11-2025",
+    "Allowoffline": false
   }
 ]
